@@ -1,2 +1,3 @@
 # search_multi_excel
-search thru multiple work excel files without having to go one by one
+Allows me to search thru multiple Excel files at work without having to go thru them one by one
+Just makes my life easier
